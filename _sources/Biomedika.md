@@ -21,6 +21,7 @@ $$
 g = \left\lfloor \frac{f(x,y)}{32} \right\rfloor
 $$
 
+$$
 \
 \begin{bmatrix}
 7 & 7 & 7 & 7 \\
@@ -29,6 +30,7 @@ $$
 6 & 6 & 6 & 6
 \end{bmatrix}
 \
+$$
 
 3. Matriks GLCM $$(0^\circ)$$
 
